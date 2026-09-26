@@ -1,6 +1,6 @@
 import Bannner from "../componants/Bannner";
 import Firstpage from "../componants/Firstpage";
-import Second from "../componants/second";
+import Second from "../componants/Second";
 import Third from "../componants/Third";
 import Fourth from "../componants/fourth";
 import Fifth from "../componants/Fifth";
